@@ -1,0 +1,22 @@
+body {
+    font-family: "Helvetica Neue",Helvetica,"Segoe UI",Tahoma,Arial,sans-serif;
+    font-size: 1rem;
+    line-height: 1rem;
+    color: #555459;
+    background-color: #4f4848;
+}
+
+.list-group {
+    visibility: visible;
+    height: 212px;
+    width: 226px;
+    
+}
+
+.badge{
+	background-color: green;
+}
+
+h4, h3 {
+	color: white;
+}
