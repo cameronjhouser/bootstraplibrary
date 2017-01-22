@@ -1,0 +1,34 @@
+body {
+      position: relative; 
+  }
+#sectionOne {
+    padding-top:50px;
+    height:500px;
+    color: #fff; 
+    background-color: #003D73;
+}
+#sectionTwo {
+    padding-top:50px;
+    height:500px;
+    color: #fff; 
+    background-color: #0878A4;
+}
+#sectionThree {
+    padding-top:50px;
+    height:500px;
+    color: #fff; 
+    background-color: #1ECFD6;
+}
+#sectionFour-One {
+    padding-top:50px;
+    height:500px;
+    color: #fff; 
+    background-color: #EDD170;
+}
+#sectionFour-Two {
+    padding-top:50px;
+    height:500px;
+    color: #fff; 
+    background-color: #C05640;
+}
+
